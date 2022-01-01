@@ -5,6 +5,6 @@ In order be able to execute properly the code, we suggest you to follow carefuly
 
 ## Steps
 
-<b>1</b> Clone our git repository using https://github.com/phnhub/Projet-Advanced-Machine-Learning-Sorbonne-University-.git
+<b>1- </b> Clone our git repository using https://github.com/phnhub/Projet-Advanced-Machine-Learning-Sorbonne-University-.git
 
-<b>2</b>
+<b>2- </b>
