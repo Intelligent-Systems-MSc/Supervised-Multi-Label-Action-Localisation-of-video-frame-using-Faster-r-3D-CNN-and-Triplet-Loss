@@ -35,6 +35,8 @@ The code is divided in two parts :
 Part 1 --> Preparing the database
 Part 2 --> Application of the ML model
 
+*The code prepares you some file directory and some folder but there is also other folder that have to be created manually. Because of the large size of the project (4.12 GB (4,427,279,723 bytes)), we could just insert some of very sample of the project on the git. However, if you follow attentively the ReadMe, you are able to re-implement our model and our results.
+
 ### Part 1: Preparing the database
 
 Download the database (Database.rar) from git which contains two serie of frames so they will all be labelized for two label "Frotter" and "Marcher".
