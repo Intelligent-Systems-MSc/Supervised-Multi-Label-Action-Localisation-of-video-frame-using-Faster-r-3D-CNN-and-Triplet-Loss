@@ -54,7 +54,7 @@ Go to code << Part 2 >> and run the code step-by-step.
 This code do some installation for Tensorflow Object Detection, prepare the model, train the model and apply it on the series of the frames to show the result of detection ,image labeling and differents evalutions using some loss function (Faster R-CNN loss and triplet loss).
 
 *For analysing the trained model, its precision or its loss values, you can use Tensorboard tool:
- Usage :
-  After training the Faster R-CNN model, you can use its generated file by the code << Part 2 >> and run the Tensorboard tool by executing the following code from the folder (ex: models -> faster_r_3D_cnn -> train) with contain the saved model.
+ <b>Usage :
+  <b>After training the Faster R-CNN model, you can use its generated file by the code << Part 2 >> and run the Tensorboard tool by executing the following code from the folder (ex: models -> faster_r_3D_cnn -> train) with contain the saved model.
   <pre>tensorboard --logdir=. </pre> 
 
