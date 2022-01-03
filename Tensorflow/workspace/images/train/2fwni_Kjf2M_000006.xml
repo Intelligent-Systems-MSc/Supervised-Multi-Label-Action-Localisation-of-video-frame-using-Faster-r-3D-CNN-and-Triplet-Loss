@@ -1,0 +1,26 @@
+<annotation>
+	<folder>marche</folder>
+	<filename>2fwni_Kjf2M_000006.jpg</filename>
+	<path>C:\Projet Image\Git\TFODCourse\Tensorflow\workspace\images\collectedimages\marche\2fwni_Kjf2M_000006.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Marcher</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>125</ymin>
+			<xmax>282</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>
