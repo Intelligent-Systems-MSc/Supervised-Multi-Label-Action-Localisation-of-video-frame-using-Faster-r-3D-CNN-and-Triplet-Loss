@@ -47,7 +47,9 @@ So, We will use the frames of these two series to train the model. In this case,
 *At the end we apply the trained method on these two series folder (serie 1, serie 2).
 
 Go to code << Part 1 >> and run the code step-by-step until "Labelimg" block. This block is the last step of the code << Part 1 >> wich execute a python application via git that could be used for adding and labelizing the bounding box of the images from train folder. 
-In this case, use the application to place your bounding box by precising its label. Then extract and put its annotation file in the train folder.   
+In this case, use the application to place your bounding box by precising its label (like image below). Then extract and put its annotation file in the train folder. 
+
+<img src="https://i.imgur.com/UU8xP6Z.png">
 
 ### Part 2: Training and labelizing
 
