@@ -31,7 +31,7 @@ python -m ipykernel install --user --name=mla
 
 ## Usage
 
-The code is divided in two parts :
+The code is divided in two parts : <br />
 Part 1 --> Preparing the database <br />
 Part 2 --> Application of the ML model <br />
 
