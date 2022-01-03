@@ -37,7 +37,7 @@ Part 2 --> Application of the ML model
 
 ### Part 1: Preparing the database
 
-Download the database from git which contains two serie of frames so they will all be labelized for two label "Frotter" and "Marcher".
+Download the database (Database.rar) from git which contains two serie of frames so they will all be labelized for two label "Frotter" and "Marcher".
 It has therefore two folder "Frotter" and "Marcher" that each of them contains 31 frame of the corresponding label followed by the rest of the video frames.
 
 The "serie 1" folder contains 31 frames of "Frotter" label plus the rest of the video frames.
